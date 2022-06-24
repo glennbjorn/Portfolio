@@ -42,10 +42,10 @@ const About = () => {
             consider myself driven and competitive, but I also champion for
             mental wellness and discourage people from burning out. I am
             meticulous and task-oriented. In a team, I play the role of a
-            risk-evaluator more often than a creative thinker, though I am also
-            strong at problem-solving. Outside of work, I am a caring individual
-            who will look out for my peers and colleagues and be their listening
-            ear.
+            risk-evaluator more often than a creative thinker, though
+            problem-solving is one of my strengths. Outside of work, I am a
+            caring individual who will look out for my peers and colleagues and
+            be their listening ear.
           </p>
 
           <a href="#contacts" className="btn btn-primary">

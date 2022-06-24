@@ -41,8 +41,8 @@ const About = () => {
             I am passionate about making a difference using technology. I
             consider myself driven and competitive, but I also champion for
             mental wellness and discourage people from burning out. I am
-            meticulous and task-oriented. In a team project, I play the role of
-            a risk-evaluator more than a creative thinker, though I am also
+            meticulous and task-oriented. In a team, I play the role of a
+            risk-evaluator more often than a creative thinker, though I am also
             strong at problem-solving. Outside of work, I am a caring individual
             who will look out for my peers and colleagues and be their listening
             ear.

@@ -74,7 +74,7 @@ const Portfolio = () => {
               NUS Enterprise, Summer Programme for Entrepreneurs Student
               Assistant
             </h4>
-            <small>Feb 22 - Present</small>
+            <small>Feb 2022 - Present</small>
           </div>
           <article className="milestone__text">
             <ul>
@@ -89,7 +89,7 @@ const Portfolio = () => {
         <div className="category__input">
           <div className="milestone">
             <h4>Great Eastern, Financial Advisor Intern</h4>
-            <small>Jun 20</small>
+            <small>Jun 2020</small>
           </div>
           <article className="milestone__text">
             <ul>
@@ -101,7 +101,7 @@ const Portfolio = () => {
         <div className="category__input">
           <div className="milestone">
             <h4>Ernst & Young, FATCA CRS Tax Services Intern</h4>
-            <small>Jan 20 - Apr 20</small>
+            <small>Jan 2020 - Apr 2020</small>
           </div>
           <article className="milestone__text">
             <ul>
@@ -126,7 +126,7 @@ const Portfolio = () => {
               </a>
               , Web Application (MEVN Stack)
             </h4>
-            <small>May 21 - Aug 21</small>
+            <small>May 2021 - Aug 2021</small>
           </div>
           <article className="milestone__text">
             <ul>
@@ -139,7 +139,7 @@ const Portfolio = () => {
 
           <div className="milestone">
             <h4>Barrel Phones, Non-Camera Mobile Phone Startup</h4>
-            <small>Jul 18 - Oct 18</small>
+            <small>Jul 2018 - Oct 2018</small>
           </div>
           <article className="milestone__text">
             <ul>
@@ -152,7 +152,7 @@ const Portfolio = () => {
 
           <div className="milestone">
             <h4>Surabaya Community Service Project, Assistant Team Lead</h4>
-            <small>Aug 16 - Dec 16</small>
+            <small>Aug 2016 - Dec 2016</small>
           </div>
           <article className="milestone__text">
             <ul>
@@ -165,7 +165,7 @@ const Portfolio = () => {
 
           <div className="milestone">
             <h4>Project IDentity, Citi-YMCA Youth for Causes</h4>
-            <small>Nov 14 - Jun 16</small>
+            <small>Nov 2014 - Jun 2016</small>
           </div>
           <article className="milestone__text">
             <ul>
@@ -194,7 +194,7 @@ const Portfolio = () => {
             The Young Southeast Asian Leaders Initiative (YSEALI) Academic
             Fellowship 2022
           </h4>
-          <small>Mar 22 - May 22</small>
+          <small>Mar 2022 - May 2022</small>
         </div>
         <article className="milestone__text">
           <ul>
@@ -207,7 +207,7 @@ const Portfolio = () => {
 
         <div className="milestone">
           <h4>CAPT Support, Internal Vice Director</h4>
-          <small>Jun 21 - May 22</small>
+          <small>Jun 2021 - May 2022</small>
         </div>
         <article className="milestone__text">
           <ul>
@@ -227,7 +227,7 @@ const Portfolio = () => {
             NUS Enterprise Summer Programme for Entrepreneurs, Student
             Ambassador
           </h4>
-          <small>Jul 21</small>
+          <small>Jul 2021</small>
         </div>
         <article className="milestone__text">
           <ul>
@@ -251,7 +251,7 @@ const Portfolio = () => {
 
         <div className="milestone">
           <h4>CAPT Dragon House Committee Member</h4>
-          <small>Aug 20 - May 21</small>
+          <small>Aug 2020 - May 2021</small>
         </div>
         <article className="milestone__text">
           <ul>

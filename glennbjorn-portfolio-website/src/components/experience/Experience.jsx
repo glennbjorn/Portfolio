@@ -1,6 +1,12 @@
 import React from "react";
 import "./experience.css";
-import { BsPatchCheckFill} from "react-icons/bs";
+import { BsPatchCheckFill } from "react-icons/bs";
+import HTML from "../../assets/html.png";
+import Python from "../../assets/python.png";
+import CSS from "../../assets/css.png";
+import Java from "../../assets/java.png";
+import JavaScript from "../../assets/javascript.png";
+import R from "../../assets/R.png";
 
 const Experience = () => {
   return (
@@ -9,8 +15,8 @@ const Experience = () => {
       <h2>My Skills</h2>
 
       <div className="container experience__container">
-        <div className="experience__frontend">
-          <h3>Frontend Development</h3>
+        <div className="experience__languages">
+          <h3>Languages</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
@@ -39,7 +45,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>VueJS</h4>
+                <h4>Python</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
@@ -47,14 +53,23 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>ReactJS</h4>
+                <h4>R</h4>
+                <small className="text-light">Basic</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Java</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
           </div>
         </div>
-        <div className="experience__backend">
-          <h3>Backend Development</h3>
+
+        <div className="experience__webdev">
+          <h3>Web Development & Databases</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
@@ -83,8 +98,16 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Python</h4>
+                <h4>VueJS</h4>
                 <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>ReactJS</h4>
+                <small className="text-light">Basic</small>
               </div>
             </article>
           </div>

@@ -1,0 +1,45 @@
+.category {
+  margin: 2rem 15%;
+}
+
+.category h2 {
+  background-color: var(--color-bg-variant);
+  margin: 0 -1rem 0;
+  padding: .2rem 1rem .2rem;
+}
+
+.milestone {
+  margin-top: 1rem;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+.milestone small {
+  text-align: right;
+  color: var(--color-light)
+}
+
+.milestone__text {
+  margin-top: .5rem;
+  font-size: small;
+}
+
+.milestone__text ul li {
+  margin-left: 1rem;
+  list-style-type: disc;
+  color: var(--color-light);
+}
+
+/* =============== MEDIA QUERIES (SMALL DEVICES) =============== */
+
+@media screen and (max-width: 600px) {
+  .milestone {
+    grid-template-columns: 1fr;
+    text-align: center;
+    margin-top: 2rem;
+  }
+
+  .milestone small {
+    text-align: center;
+  }
+}

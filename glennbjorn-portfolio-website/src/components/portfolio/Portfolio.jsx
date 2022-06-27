@@ -32,7 +32,7 @@ const Portfolio = () => {
           <article className="milestone__text">
             <ul>
               <li>
-                Active resident participating in various College activities
+                Graduate of the University Town College 
               </li>
             </ul>
           </article>
